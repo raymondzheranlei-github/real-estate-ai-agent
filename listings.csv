@@ -1,0 +1,11 @@
+id,address,price,bedrooms,bathrooms,square_footage,description,neighborhood_description
+0,"123 Main St, San Francisco, CA 94102",1500000,3,2,1800,Charming Victorian home in the heart of San Francisco with modern updates and classic details.,"Located in the historic neighborhood of Hayes Valley, known for its trendy shops and restaurants."
+1,"456 Elm St, Brooklyn, NY 11201",1200000,4,3,2200,Spacious brownstone with original features and a private backyard oasis.,"Situated in the desirable neighborhood of Brooklyn Heights, close to parks and waterfront views."
+2,"789 Oak Ave, Austin, TX 78701",800000,2,2,1500,Modern loft-style condo with high ceilings and downtown views.,"Located in the bustling downtown area of Austin, known for its live music scene and vibrant culture."
+3,"101 Pine St, Seattle, WA 98101",950000,1,1,1000,Luxury high-rise apartment with panoramic views of the city and Puget Sound.,"Situated in the heart of downtown Seattle, close to Pike Place Market and waterfront attractions."
+4,"555 Maple Ave, Denver, CO 80202",700000,3,2,1800,Contemporary townhouse with a rooftop deck and mountain views.,"Located in the trendy neighborhood of LoDo, known for its historic architecture and vibrant nightlife."
+5,"222 Cherry St, Miami, FL 33130",600000,2,2,1400,Waterfront condo with a private balcony and resort-style amenities.,"Situated in the exclusive neighborhood of Brickell, close to luxury shopping and dining options."
+6,"777 Walnut St, Philadelphia, PA 19106",850000,4,3,2000,Historic row home with original details and a landscaped backyard.,"Located in the charming neighborhood of Society Hill, known for its cobblestone streets and colonial architecture."
+7,"333 Cedar St, Portland, OR 97201",750000,2,2,1600,Craftsman-style bungalow with a covered porch and a detached studio.,"Situated in the eclectic neighborhood of Nob Hill, close to local cafes and boutique shops."
+8,"999 Pineapple St, Honolulu, HI 96813",1200000,3,2,1800,Tropical retreat with ocean views and a lush landscaped garden.,"Located in the prestigious neighborhood of Diamond Head, close to Waikiki Beach and hiking trails."
+9,"444 Peachtree St, Atlanta, GA 30303",500000,1,1,900,Modern condo with floor-to-ceiling windows and city skyline views.,"Situated in the bustling downtown area of Atlanta, close to cultural attractions and entertainment venues."
